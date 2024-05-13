@@ -203,8 +203,8 @@ onload	:	Triggers when the document loads
       <p>Refresh the page to increase the number of hits.</p>
       <p>Close the window and open it again and the number of hits is still the same as the last time that was shown on screen.</p>
 
-   </body>
-</html>
+    </body>
+    </html>
 	
     
 
